@@ -1,5 +1,5 @@
 # UwUntu-Art
-UwUntu 20.04 Arts (Such as wallpapers, Avatars...)
+UwUntu Arts (Such as wallpapers, Avatars...)
 
 <h2>Thanks</h2>
 <h3>Avatars</h3>
