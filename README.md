@@ -1,4 +1,11 @@
 <!-- SHIELDS LINKS -->
+[![Stargazers][stars-shield]][stars-url]
+[![gotoweb][gotoweb-shield]][gotoweb-url]
+[![KoFi][kofi-shield]][kofi-url]
+[![Tweet][tweet-shield]][tweet-url]
+[![Discord][discord-shield]][discord-url]
+[![UwUntu][github-uwu]][UwUntu-url]
+
 <!--GITHUB STARS-->
 [stars-shield]: https://img.shields.io/github/stars/Duxi4/UwUntu-Art?style=for-the-badge&logo=Linux&logoColor=C689C6&color=FFABE1
 [stars-url]: https://github.com/Duxi4/UwUntu-Art/stargazers
